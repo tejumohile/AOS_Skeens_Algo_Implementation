@@ -1,0 +1,17 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+build/
+nbproject/
+test/
+
+# project generated files
+build.xml
+manifest.mf
+
+# Local configuration file (sdk path, etc)
+local.properties
+.classpath
